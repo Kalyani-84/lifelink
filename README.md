@@ -86,53 +86,62 @@ The Signup Screen allows new users to create an account by providing essential d
 password, and role selection (Donor, Patient, or Blood Bank Admin). It ensures secure registration using
 Supabase authentication and stores role-specific data for personalized access within the app.
 
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/b4c846b9-dc54-44bc-8192-87059b5fc4c1" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/b4c846b9-dc54-44bc-8192-87059b5fc4c1" />
 
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/e64e9940-fef3-4796-9aa8-4c585bdb8cf4" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e64e9940-fef3-4796-9aa8-4c585bdb8cf4" />
 
 **2. Login Page:** Authentication screen where users enter credentials to access the app. Screenshot: Include a
 screenshot with Email and Password fields.
 
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/3c2dfd2f-c548-4cd4-856f-0c3ffb332223" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/3c2dfd2f-c548-4cd4-856f-0c3ffb332223" />
 
 **3.Home screen:** Role selection Lets users choose their role (Donor, Patien).UI: Three cards or buttons with
 icons representing roles.
 
-<img width="320" height="708" alt="image" src="https://github.com/user-attachments/assets/775656bb-9239-436a-8fa5-113dbc6a10de" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/775656bb-9239-436a-8fa5-113dbc6a10de" />
 
 **4. Donor screen:** Home page showing user profile, recent requests, and navigation options. Key Features:
 View incoming requests from blood banks and Floating action button to fill donation eligibility form
 
-<img width="398" height="879" alt="image" src="https://github.com/user-attachments/assets/c65e48ea-3916-4e2f-a73c-19bbca8d3d82" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/c65e48ea-3916-4e2f-a73c-19bbca8d3d82" />
 
-5. Request History Page (Donor): Displays donation requests from blood banks.Columns: Blood Bank
+**5. Request History Page (Donor):** Displays donation requests from blood banks.Columns: Blood Bank
 Name, Request Message, Status, Actions (Accept/Reject)
 
-<img width="323" height="654" alt="image" src="https://github.com/user-attachments/assets/3b404a27-38c6-4fd2-be28-fad0d871ae35" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/3b404a27-38c6-4fd2-be28-fad0d871ae35" />
 
-6. Donate Form Page (ML Integrated): Form for donors to input medical and personal info. Calls ML
+**6. Donate Form Page (ML Integrated):** Form for donors to input medical and personal info. Calls ML
 API to predict eligibility and stores in donor_predictions. Age, Gender, Location, Blood Group, History.
  The ML model used to predict donor suitability was tested for:
 • Accuracy: 92.5% match with manually validated records
 • Precision and Recall: Precision = 0.91, Recall = 0.89
 
-<img width="343" height="764" alt="image" src="https://github.com/user-attachments/assets/9c4b2224-f186-45c3-97e5-a80b55cd96d3" />
-<img width="345" height="763" alt="image" src="https://github.com/user-attachments/assets/ce02935f-7610-4660-9283-7e748b89d60d" />
-<img width="339" height="766" alt="image" src="https://github.com/user-attachments/assets/e7517393-5820-4b6f-9699-a90600caf479" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/9c4b2224-f186-45c3-97e5-a80b55cd96d3" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ce02935f-7610-4660-9283-7e748b89d60d" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e7517393-5820-4b6f-9699-a90600caf479" />
 
-7. Patient screen: Home screen for patients with profile and navigation. Access to nearby blood banks, stock
+**7. Patient screen**: Home screen for patients with profile and navigation. Access to nearby blood banks, stock
 view.
 
-<img width="357" height="796" alt="image" src="https://github.com/user-attachments/assets/ecdcdc10-4112-4c31-b33b-80bc03a99ed0" />
-<img width="345" height="773" alt="image" src="https://github.com/user-attachments/assets/60cb8e54-133a-4219-b17d-6837073e84bc" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ecdcdc10-4112-4c31-b33b-80bc03a99ed0" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/60cb8e54-133a-4219-b17d-6837073e84bc" />
 
-8. Blood Bank List Page: Shows a list of registered blood banks. Blood Bank Name, Location, Stock
+**8. Blood Bank List Page:** Shows a list of registered blood banks. Blood Bank Name, Location, Stock
 Overview
 
-<img width="370" height="818" alt="image" src="https://github.com/user-attachments/assets/0931eaf3-9583-483e-9c5f-32fbf44493bb" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/0931eaf3-9583-483e-9c5f-32fbf44493bb" />
 
-9. Donor list Page: Shows predictions from ML model. Donor Info, Eligibable donor ,Request Button
+**9. Donor list Page:** Shows predictions from ML model. Donor Info, Eligibable donor ,Request Button
 Clicking "Request" sends data to request_to_donor.
 
-<img width="361" height="804" alt="image" src="https://github.com/user-attachments/assets/ed3bf8fb-7aad-4dd4-b081-b076d72542b4" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ed3bf8fb-7aad-4dd4-b081-b076d72542b4" />
+**10. Stock Management Page:** Manage blood stock levels. Add / Update / Delete stock records. Blood
+Group, Quantity, Last Updated
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/aa8c1792-747e-4fee-9ccc-05660a7e4bd7" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/4f740cff-ee58-4275-8000-6625fd48ed31" />
 
+11. Profile Icon & Details Page: Available on top-right of every dashboard. Shows user's name, email, and
+logout button
+
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/0c0c29c6-4b63-492b-8a5d-f1552383afd7" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/cfad952b-7ce5-4855-96c6-3e9a01fd3a7d" />
