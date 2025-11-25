@@ -81,4 +81,9 @@ Lifelink demonstrates how technology can transform public health by creating a s
 
 ## 📸 Screenshots
 
+1.Signup Screen
+The Signup Screen allows new users to create an account by providing essential details like name, email,
+password, and role selection (Donor, Patient, or Blood Bank Admin). It ensures secure registration using
+Supabase authentication and stores role-specific data for personalized access within the app.
+<img width="272" height="655" alt="image" src="https://github.com/user-attachments/assets/7086a4cd-ddc9-48a2-a6b8-1312472a04c2" />
 
