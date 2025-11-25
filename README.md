@@ -103,7 +103,7 @@ icons representing roles.
 **4. Donor screen:** Home page showing user profile, recent requests, and navigation options. Key Features:
 View incoming requests from blood banks and Floating action button to fill donation eligibility form
 
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/c65e48ea-3916-4e2f-a73c-19bbca8d3d82" />
+<img width="300" margin="20" height="600" alt="image" src="https://github.com/user-attachments/assets/c65e48ea-3916-4e2f-a73c-19bbca8d3d82" />
 
 **5. Request History Page (Donor):** Displays donation requests from blood banks.Columns: Blood Bank
 Name, Request Message, Status, Actions (Accept/Reject)
