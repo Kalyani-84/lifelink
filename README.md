@@ -86,7 +86,7 @@ The Signup Screen allows new users to create an account by providing essential d
 password, and role selection (Donor, Patient, or Blood Bank Admin). It ensures secure registration using
 Supabase authentication and stores role-specific data for personalized access within the app.
 
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/b4c846b9-dc54-44bc-8192-87059b5fc4c1" />
+<img style="margin-right: 30" width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/b4c846b9-dc54-44bc-8192-87059b5fc4c1" />
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e64e9940-fef3-4796-9aa8-4c585bdb8cf4" />
 
@@ -135,6 +135,7 @@ Overview
 Clicking "Request" sends data to request_to_donor.
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ed3bf8fb-7aad-4dd4-b081-b076d72542b4" />
+
 **10. Stock Management Page:** Manage blood stock levels. Add / Update / Delete stock records. Blood
 Group, Quantity, Last Updated
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/aa8c1792-747e-4fee-9ccc-05660a7e4bd7" />
