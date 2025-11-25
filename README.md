@@ -87,6 +87,7 @@ password, and role selection (Donor, Patient, or Blood Bank Admin). It ensures s
 Supabase authentication and stores role-specific data for personalized access within the app.
 
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/b4c846b9-dc54-44bc-8192-87059b5fc4c1" />
+
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/e64e9940-fef3-4796-9aa8-4c585bdb8cf4" />
 
 **2. Login Page:** Authentication screen where users enter credentials to access the app. Screenshot: Include a
