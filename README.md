@@ -136,8 +136,8 @@ Clicking "Request" sends data to request_to_donor.
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ed3bf8fb-7aad-4dd4-b081-b076d72542b4" />
 
-**10. Stock Management Page:** Manage blood stock levels. Add / Update / Delete stock records. Blood
-Group, Quantity, Last Updated
+**10. Stock Management Page:** Manage blood stock levels. Add / Update / Delete stock records. Blood Group, Quantity, Last Updated
+
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/aa8c1792-747e-4fee-9ccc-05660a7e4bd7" />
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/4f740cff-ee58-4275-8000-6625fd48ed31" />
 
